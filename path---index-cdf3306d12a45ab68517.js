@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{411:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Jacob Duchen's Portfolio Site",description:"Jacob Duchen's Gatsby.js Portfolio Site"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-cdf3306d12a45ab68517.js.map
